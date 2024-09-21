@@ -1,0 +1,4 @@
+emoji==2.12.1
+groq==0.5.0
+python-dotenv==1.0.1
+pyttsx3==2.91

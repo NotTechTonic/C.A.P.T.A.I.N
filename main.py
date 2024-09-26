@@ -26,6 +26,19 @@
 from imports import *
 
 def _output(response) -> Generator[str, None, None]:
+
+  """
+    This function iterates over the response to get the chunks and prints them
+
+    Parameters:
+    - response (object): Takes a Response object.
+   
+    Returns:
+    - Generator(str, None, None): returns a generator object that can be iterated.
+
+    This function takes a response object and iterate over it to get and print the chunks while yielding partial sentences that the Generator will return per Iteration. 
+  """
+
   print(f"\033[1;94mC.A.P.T.A.I.N >> \033[0m", end='', flush=True)
   partial_sentence = ""
   

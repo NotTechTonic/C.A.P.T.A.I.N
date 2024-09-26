@@ -1,33 +1,40 @@
 NotTechTonic (Satyam) License
-==========================
+============================
 
 Version 1.0, September 2024
 
 **TERMS AND CONDITIONS**
 
 1. **Definitions**
-    * "Software" refers to the NotTechTonic/C.A.P.T.A.I.N software, including all source code, object code, documentation, and any modifications or adaptations thereof.
-    * "Licensor" refers to NotTechTonic (Satyam), the original author and owner of the Software.
-    * "Licensee" refers to any individual or organization using the Software.
-2. **Grant of License**
-    The Licensor hereby grants to the Licensee a non-exclusive, worldwide, royalty-free license to use, modify, display, and distribute the Software, provided that proper attribution is given for the original work and any third-party code used in the project.
+   * "Software" refers to NotTechTonic/C.A.P.T.A.I.N, including source code, object code, and documentation.
+   * "Licensor" refers to NotTechTonic (Satyam).
+   * "Licensee" refers to any user of the Software.
+
+2. **License Grant**
+   The Licensor grants the Licensee a non-exclusive, worldwide, royalty-free license to use, modify, display, and distribute the Software, provided that all conditions are met.
+
 3. **Conditions**
-    The Licensee must:
-    * Retain all copyright and proprietary notices in the Software.
-    * Provide appropriate attribution, including modifications made to any third-party code used.
-    * Not use the Software for any illegal or malicious purposes.
-    * Not sell or distribute the Software as a standalone product without significant modifications or additional features.
+   The Licensee must:
+   * Retain all original copyright and attribution notices.
+   * Provide clear credit to the Licensor for the original Software and for any third-party code as required.
+   * Not use the Software for illegal or harmful purposes.
+   * Not sell, distribute, or sublicense the Software as a standalone product without significant modifications or added features.
+
 4. **Third-Party Code**
-    Portions of the Software include code from third parties, edited and modified by the Licensor for project-specific needs. Such code remains under the original licenses and attributions must be preserved accordingly.
-5. **Warranty Disclaimer**
-    The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+   Any third-party code included in this Software is accompanied by appropriate attribution to its original creators, as detailed in this repository. Users must maintain these attributions when utilizing or distributing the Software.
+
+5. **Disclaimer of Warranty**
+   The Software is provided "as is" without any warranties, including but not limited to implied warranties of merchantability or fitness for a particular purpose.
+
 6. **Limitation of Liability**
-    In no event shall the Licensor be liable for any damages, including but not limited to incidental, consequential, or punitive damages, arising out of the use or inability to use the Software.
+   The Licensor shall not be liable for any damages resulting from the use, modification, or distribution of the Software.
+
 7. **Termination**
-    This License will terminate automatically if the Licensee fails to comply with any of its terms and conditions.
+   This License will be terminated automatically if the Licensee violates any terms or conditions. Upon termination, all rights to use the Software are revoked.
+
 8. **Governing Law**
-    This License shall be governed by and construed in accordance with the laws of [Country/State].
+   This License shall be governed by and construed in accordance with the laws of [Country/State].
 
 **BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS LICENSE.**
 
-Copyright (c) 2024 NotTechTonic (Satyam). All rights reserved.
+Copyright © 2024 NotTechTonic (Satyam). All rights reserved.
